@@ -1,0 +1,4 @@
+[submodule "marpit-inuits"]
+	path = marpit-inuits
+	url = https://github.com/roidelapluie/marpit-inuits
+	branch = gh-pages
